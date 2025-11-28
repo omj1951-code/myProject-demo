@@ -1,4 +1,4 @@
 # myProject-demo
 this is my first git repository
 <br>
-author - Om Jadhav
+author - Om Jadhav (learn aiml)
